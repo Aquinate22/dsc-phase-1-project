@@ -1,6 +1,10 @@
 # Phase 1 Project
 
-You've made it all the way through the first phase of this course - take a minute to celebrate your awesomeness!
+# Introduction
+Data Analysis of movies for Microsoft Company
+
+# Business Problem
+Looking into movie genres
 
 ![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project/master/awesome.gif)
 
