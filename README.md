@@ -39,4 +39,14 @@ Some columns were also renamed
 ### Data exploration;
 The mean and median value of the budget df was obtained
 Various plots were plotted to show the relationship between different variables of the data.
+### Conclusion
+I came to the conclusion that:
+* Sci-Fi movies have the highest production_budget and worldwide_gross
+* Sci_Fi movies produced in the 8th month gave highest profit
+* Drama movie are the most popular, to mean,they are the most watched.
+### Recommendation:
+I would recommend:
+* Investment in Sci-Fi movies
+* production budget of not less than $150,000,000
+* a capturing and interesting movie title, can be a single word like Brave
 
